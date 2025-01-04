@@ -1,7 +1,7 @@
 # 👋 About Me:
 
 📚 I'm an undergrad student at GUC
-🌟 I am a curious 🔍 and creative 💡 person, always eager to learn and explore new hobbies.  
+🌟 I am a curious and creative person, always eager to learn and explore new hobbies.  
 
 I also enjoy ⚽**football**, 🏊‍♂️**swimming**, 🎬 **movies**, and 🎵 **good music**.
 
