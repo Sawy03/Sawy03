@@ -1,7 +1,10 @@
 # 👋 About Me:
 
-📚 I'm an undergrad student at GUC
-🌟 I am a curious and creative person, always eager to learn and explore new hobbies.  
+🎓 I'm a Computer Engineering graduate from the German University in Cairo (GUC).
+
+💻 Passionate about technology, software development, and AI, I'm always eager to learn new skills, explore innovative ideas, and take on new challenges.
+
+🌟 I'm a curious and creative person who enjoys problem-solving, continuous learning, and turning ideas into reality.
 
 I also enjoy ⚽**football**, 🏊‍♂️**swimming**, 🎬 **movies**, and 🎵 **good music**.
 
